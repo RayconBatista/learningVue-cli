@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="comp">
-    <h1> {{ title }}</h1>
+    <h1> | {{ title }} |</h1>
     <p>Bem vindo</p>
     <teste-component></teste-component>
     <br>
